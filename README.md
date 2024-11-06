@@ -1,4 +1,3 @@
-<div style="text-align: center;">
-  <h1>                           Resume</h1>
-</div>
+# Jeevan S
+**Email:** iamsjeevan@gmail.com **Github:** github.com/iamsjeevan
 
