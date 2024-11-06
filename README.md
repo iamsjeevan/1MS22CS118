@@ -18,7 +18,7 @@
   - C#
   - Scratch
   - SQL
-**Web Devlopment:**
+  - **Web Devlopment:**
   - React
   - Wordpress
   - Springboot
