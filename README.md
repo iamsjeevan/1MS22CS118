@@ -18,6 +18,7 @@
   - C#
   - Scratch
   - SQL
+  - Rust
   ## **Web Devlopment:**
   - React
   - Wordpress
