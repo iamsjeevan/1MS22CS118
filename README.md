@@ -32,6 +32,6 @@
 ##  Soft Skills
 - Leadership
 - Communication
-- Problem SOlving
-- Critical thinking
-- team Work
+- Problem Solving
+- Critical Thinking
+- Team Work
