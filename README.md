@@ -1,2 +1,2 @@
 # 1MS22CS118
-                                                              <H1>Resume</H1>
+<h1 style="font-size: 20px;">Resume</h1>
