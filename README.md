@@ -1,2 +1,4 @@
-# 1MS22CS118
-<h1 style="font-size: 20px;">Resume</h1>
+<div style="text-align: center;">
+  <h1>Resume</h1>
+</div>
+
