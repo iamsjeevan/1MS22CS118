@@ -27,8 +27,8 @@
 - Express
 - MongoDB
 ## Education:
-**High SChool:** Vidyanjali Academy For Learning
-**COllege:** MS Ramaiah institute Of Technology
+**High School:** Vidyanjali Academy For Learning
+**College:** MS Ramaiah institute Of Technology
 ##  Soft Skills
 - Leadership
 - Communication
