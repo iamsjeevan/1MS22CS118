@@ -26,6 +26,7 @@
   - Wordpress
   - Springboot
   - DJango
+  - Mysql
   - Node js
   - Express
   - MongoDB
